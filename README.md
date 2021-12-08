@@ -7,4 +7,5 @@ Los documentos pdf disponibles en el repositorio explican el funcionamiento de c
 
 El fichero recibido.txt contiene la salida correspondiente a un ejemplo sencillo.
 
-VirtualWire-1.27.zip es una librería de la que depende el trabajo referenciada en los pdfs.
+VirtualWire-1.27.zip es una librería de la que dependen los códigos. 
+Para más detalles y/o consultar su licencia acudir a la referencia en los pdfs o el fichero README dentro del .zip.
